@@ -1,0 +1,4 @@
+{
+  "threshold": 0.2246595,
+  "model_path": "model/xgb_model.json"
+}
