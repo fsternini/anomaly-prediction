@@ -1,0 +1,9 @@
+scipy
+pandas
+colab-env
+imbalanced-learn
+matplotlib
+seaborn
+numpy
+scikit-learn
+tensorflow
